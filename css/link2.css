@@ -1,0 +1,11 @@
+body
+{
+    background-color: black;
+    background-image: url("../images/background.png");
+    background-position: top center;
+}
+
+.nith_logo
+{
+    margin: 200px 540px;
+}
